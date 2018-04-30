@@ -1,0 +1,93 @@
+body {
+    background: url(https://cmeimg-a.akamaihd.net/640/cme/cuteness_data/s3fs-public/diy_blog/Why-Do-Cats-Touch-Noses.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
+.surveyBody {
+    background: none;
+}
+
+.survey {
+    background: #405f38;
+    color: black;
+}
+
+html {
+    height: 100%;
+}
+
+#content {
+    text-align: center;
+    padding-top: 25%;
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 
+                 0px 8px 13px rgba(0, 0, 0, 0.1),
+                 0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+.pageContent {
+    padding: 0px 50px 0px 50px;
+    background-color: white; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 5em;
+}
+
+hr {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.title {
+    color: #405f38;
+    text-align: center;
+}
+
+#matchedPhoto {
+    max-width: 250px;
+    max-height: 250px;
+    display: block;
+    margin: 0 auto;
+}
+
+#modal-title {
+    font-size: 40px;
+    text-align: center;
+}
+
+#matchedName {
+    font-size: 40px;
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+
+.break {
+    padding: 0 10px 0 10px;
+}
+
+.form-control {
+    margin-bottom: 2rem;
+}
+
+.form-group {
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #ccc;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
